@@ -1,0 +1,20 @@
+.bodyhome{
+    background-color: #e4e4e4;
+    padding-top: 0rem;
+    border: 3px solid #4e4e4e;
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.5);
+    margin-top: 25%;
+}
+
+.home{
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.firstheaderhome{
+    font-family: cursive;
+    text-align: center;
+}
